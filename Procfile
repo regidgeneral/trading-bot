@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: pip install audioop-lts --quiet && python bot.py
