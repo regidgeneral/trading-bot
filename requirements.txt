@@ -1,0 +1,6 @@
+discord.py==2.3.2
+python-binance==1.0.19
+gspread==6.1.2
+google-auth==2.35.0
+pytz==2024.2
+requests==2.32.3
