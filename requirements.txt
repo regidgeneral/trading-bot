@@ -1,4 +1,4 @@
-py-cord==2.6.1
+nextcord==2.6.0
 python-binance==1.0.19
 gspread==6.1.2
 google-auth==2.35.0
